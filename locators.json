@@ -3,7 +3,7 @@
 "description": "The username text input",
 "locatorType": "css",
 "locator": "#username"
-
+  
 },
 
 "headerLoginLink": {
