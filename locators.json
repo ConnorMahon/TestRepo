@@ -1,0 +1,29 @@
+{
+"usernameInput": {
+"description": "The username text input",
+"locatorType": "css",
+"locator": "#username"
+
+},
+
+"headerLoginLink": {
+"description": "header link that says login/my account",
+"locatorType": "css",
+"locator": "[href='/login']"
+
+},
+
+"passwordInput": {
+"description": "password text input",
+"locatorType": "css",
+"locator": "#password"
+
+},
+
+"loginSubmitButton": {
+"description": "Orange login button",
+"locatorType": "css",
+"locator": ".t-button-standard"
+
+}
+}
